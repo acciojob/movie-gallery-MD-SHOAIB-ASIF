@@ -1,2 +1,10 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */ 
+
+    
+ img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            margin: 5px;
+        }
